@@ -2,17 +2,17 @@ const quizData = [
         {
           question: "HTML <div> itu ibarat apa?",
           options: [
-            "Kotak kosong isi terserah 📦",
-            "Tempat nongkrong JS 😎",
-            "Button hack NASA 🛰️",
-            "Kulkas ❄️",
+            "Kotak kosong isi terserah",
+            "Tempat nongkrong JS",
+            "Button hack NASA",
+            "Kulkas",
           ],
           answer: 0,
         },
         {
           question: "CSS position: absolute; tanpa parent relative =",
           options: [
-            "Anak kost nyasar 🏚️",
+            "Anak kost nyasar",
             "Nempel pojok browser",
             "Jadi flexbox",
             "Sticky note",
@@ -21,15 +21,15 @@ const quizData = [
         },
         {
           question: "console.log(typeof NaN) hasilnya?",
-          options: ['"number" 🤯', '"undefined"', '"NaN"', "Error merah gede"],
+          options: ['"number"', '"undefined"', '"NaN"', "Error merah gede"],
           answer: 0,
         },
         {
           question: "HTML <input type='password'> gunanya?",
           options: [
-            "Sembunyiin rahasia 🕵️",
+            "Sembunyiin rahasia",
             "Text jadi bintang ****",
-            "Nyimpen password di server 😬",
+            "Nyimpen password di server",
             "Meme generator",
           ],
           answer: 1,
@@ -37,10 +37,10 @@ const quizData = [
         {
           question: "JavaScript + CSS bisa bikin…",
           options: [
-            "Website interaktif 🎮",
+            "Website interaktif",
             "Excel 2.0",
-            "Hack wifi tetangga 📶",
-            "Roti bakar 🍞",
+            "Hack wifi tetangga",
+            "Roti bakar",
           ],
           answer: 0,
         },
