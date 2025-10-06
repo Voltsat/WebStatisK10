@@ -57,3 +57,7 @@ body {
 .button:hover {
   background: #29a5b3;
 }
+.title, .desc {
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.4);
+}
+
