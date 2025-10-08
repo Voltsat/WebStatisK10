@@ -19,7 +19,7 @@ body {
 .quiz-box {
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(12px);
-  padding: 40px 30px 30px 30px;
+  padding: 40px 30px ;
   border-radius: 20px;
   width: 90%;
   max-width: 500px;
@@ -29,19 +29,19 @@ body {
 }
 
 .quiz-box h1 {
-  font-size: 1.6rem;
+  font-size: 30px;
   margin-bottom: 20px;
   color: #ffe082;
 }
 
 #timer {
-  font-size: 1.1rem;
+  font-size: 20px;
   margin-bottom: 15px;
   color: #b2ebf2;
 }
 
 #question {
-  font-size: 1.2rem;
+  font-size: 25px;
   margin-bottom: 20px;
 }
 
@@ -68,7 +68,7 @@ body {
 
 #result {
   margin-top: 20px;
-  font-size: 1.2rem;
+  font-size: 25px;
   color: #fff;
 }
 
