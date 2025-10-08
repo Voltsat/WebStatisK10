@@ -51,7 +51,7 @@ const memes = [
   "https://stickercommunity.com/uploads/main/25-08-2023-09-24-59b9adi-sticker6.webp",
   "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/9171097d6111487d9a6f076048c7f004~.jpeg",
   "https://i.pinimg.com/236x/1b/3f/af/1b3fafb89efd91a46dbd7323347e5a6a.jpg",
-  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GI_8w-C9kiFTyMlNV9Svn81UdmrrBq7ZFQ&s",
+  "https://png.pngtree.com/png-vector/20250623/ourmid/pngtree-cute-duck-meme-sticker-vector-illustration-png-image_16581842.png",
 ];
 
 // deklarasiin anu
